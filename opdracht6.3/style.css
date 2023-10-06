@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 10px;
+    color: blue;
+    font-size: 20px;
+
+}
+
+.logo{
+    width: 25%;
+    text-align: center;
+    
+    
+  
+  
+}
+
+.login{
+    width: 25%;
+    text-align: center;
+   
+}
+
+
+    
+ 
+ 
+    
+  
+
+
